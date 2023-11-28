@@ -1,4 +1,25 @@
+/*uthor : Uduakobong Odudu 
+Student ID : w0480386
+Course : WEBD1000
+Project : Exercise / Assignment
+Version: Html and CSS
+*/
 .mydiv{
     text-transform: capitalize;
     padding: 23px 0px 10px 23px;
+}
+
+#jann{
+    margin: 12px 12px 12px 12px;
+    border-style: solid;
+}
+
+.sp-3{
+    padding-left: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+}
+.marr{
+    width:180px ;
+    height: 180px;
 }
